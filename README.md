@@ -38,9 +38,11 @@ bitmasks instead of the modulo operator. The number of buckets is based on the
 results presented in [0].
 
 References:
+
 [0] F. C. Botelho, D. Belazzougui and M. Dietzfelbinger. Compress, hash and
     displace. In Proceedings of the 17th European Symposium on Algorithms
     (ESA 2009). Springer LNCS, 2009.
     http://cmph.sourceforge.net/papers/esa09.pdf
+    
 [1] Bob Jenkins: Minimal Perfect Hashing,
     http://www.burtleburtle.net/bob/hash/perfect.html#algo
